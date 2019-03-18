@@ -1,0 +1,18 @@
+{
+  "name": "kangxizidian",
+  "description": "The Kangxi Dictionary",
+  "version": "0.2",
+  "main": "index.html",
+  "single-instance":true,
+  "window": {
+    "toolbar": true,
+    "width": 1020,
+    "height": 600
+  },
+ "repositories": [
+       {
+            "type": "git", 
+            "url": "http://github.com/ksanaforge/kangxizidian.git"
+       }  
+    ]
+}

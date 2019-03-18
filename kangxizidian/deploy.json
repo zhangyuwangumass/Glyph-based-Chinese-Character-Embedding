@@ -1,0 +1,20 @@
+{
+	"files":[
+		"node_modules/refinery",
+		"kangxizidian/aura_components",
+		"kangxizidian/css",
+		"kangxizidian/kangxizidian.ydb",
+		"kangxizidian/index.js",
+		"kangxizidian/index.html",
+		"kangxizidian/package.json",
+		"kangxizidian/LICENSE",
+		"kangxizidian/README.md",
+		"glyphwiki/glyphwiki.ydb"
+	],
+	"darwin" :[
+		"kangxizidian/run.command"
+	],
+	"win32" :[
+		"kangxizidian/run.cmd"
+	]	
+}
